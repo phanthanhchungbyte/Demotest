@@ -1,0 +1,11 @@
+(A+B) : This is addition
+Ex: 5 + 7 = 12
+
+(A-B) : This is subtraction
+Ex: 5 - 7 = -2
+
+(A*B) : This is multiplication
+Ex: 8 * 5 = 40
+
+(A/B) : This is division
+Ex: 80 / 2 = 40 
